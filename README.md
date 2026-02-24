@@ -47,14 +47,14 @@ Generating random samples for simulation
 
 ---
 
-### 📌 Output Result
+###  Output Result
 
 <img width="471" height="206" alt="image" src="https://github.com/user-attachments/assets/dd2bcf3c-e670-434c-bf06-54cd6e4a2796" />
 
 
 ---
 
-### 📌 Best Model
+###  Best Model
 
 <img width="401" height="148" alt="image" src="https://github.com/user-attachments/assets/160e8d57-ec81-4379-95e6-58f95a74e7e1" />
 
