@@ -29,7 +29,7 @@ Generating random samples for simulation
 
 ---
 
-## 3️⃣ Objectives
+## Objectives
 
 - To generate a dataset using modelling and simulation.  
 - To apply multiple machine learning models on simulated data.  
